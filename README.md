@@ -1,73 +1,99 @@
-<!-- ANIME NEON DEVELOPER PROFILE --><div align="center"><img src="./assets/ayushi-anime-banner.png" width="100%" /><br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=E879F9&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Competitive+Programmer;Software+Engineering+Enthusiast;Exploring+Quant+%26+AI%2FML" /><br/><a href="https://github.com/Ayushizala10">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a></div>---
+<div align="center">
 
-🌸 About Me
+<img src="./ayushi-anime-github-banner.png" width="100%" alt="Ayushi Zala Anime Developer Banner"/>
 
-Hi! I'm Ayushi Zala.
+<br/>
 
-A Computer Science student passionate about programming, problem-solving and building interesting things.
+# 💜 AYUSHI ZALA
 
-- 💻 C++ Developer & DSA Enthusiast
-- 🧩 Competitive Programming
-- 🧠 Exploring AI/ML and Quantitative Computing
-- 🎮 Game Development & Web Development
-- 💜 Exploring Open Source
+### C++ DEVELOPER · COMPETITIVE PROGRAMMER
 
-Always curious. Always learning.
+*Code • Create • Innovate*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ayushizala10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+
+</div>
 
 ---
 
-⚡ Tech Stack
+## 🌸 ABOUT ME
 
-<div align="center">Languages
+Hey! I'm **Ayushi Zala**, a Computer Science student who loves solving problems, building projects and exploring new technologies.
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark"/>Tools & Technologies
+- 💻 C++ Developer and DSA enthusiast
+- 🧩 Competitive Programming
+- ⚡ Exploring Quantitative Computing and HFT
+- 🤖 Interested in AI and Machine Learning
+- 🎮 Game Development and Web Development
+- 🌱 Exploring Open Source
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,godot,html,css&theme=dark"/></div>---
+---
 
-🎯 My Interests
+## 💻 TECH STACK
 
-<div align="center">"Competitive Programming" (https://img.shields.io/badge/Competitive_Programming-9D4EDD?style=for-the-badge)
-"Quant" (https://img.shields.io/badge/Quant_%2F_HFT-C026D3?style=for-the-badge)
-"AI ML" (https://img.shields.io/badge/AI_%2F_ML-7B2CBF?style=for-the-badge)
-"Game Development" (https://img.shields.io/badge/Game_Development-5A189A?style=for-the-badge)
-"Web Development" (https://img.shields.io/badge/Web_Development-3C096C?style=for-the-badge)
+### Languages
 
-</div>---
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🚀 Currently Working On
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+
+---
+
+## 🎯 MY INTERESTS
+
+| Area | What I explore |
+|---|---|
+| ⚡ Competitive Programming | DSA and algorithms |
+| 📈 Quant / HFT | Mathematical and performance computing |
+| 🤖 AI / ML | Machine learning |
+| 🎮 Game Development | Game mechanics and systems |
+| 🌐 Web Development | Creative applications |
+
+---
+
+## 🚀 CURRENTLY WORKING ON
 
 - Improving my C++ and problem-solving skills.
-- Practising Data Structures & Algorithms.
-- Exploring efficient code and performance optimization.
-- Building personal software projects.
-- Making meaningful open-source contributions.
+- Practising competitive programming.
+- Learning efficient programming techniques.
+- Building personal projects.
+- Exploring open-source contributions.
 
 ---
 
-📊 GitHub Statistics
+## 📂 FEATURED PROJECTS
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ayushizala10&show_icons=true&theme=midnight-purple&hide_border=true"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushizala10&layout=compact&theme=midnight-purple&hide_border=true"/><br/><br/>
+More projects coming soon!
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushizala10&theme=midnight-purple&hide_border=true"/></div>---
+- **C++ DSA** — Algorithms and data structures.
+- **Game Development** — Interactive game projects.
+- **Performance Lab** — C++ optimization experiments.
+- **ML Projects** — Machine learning experiments.
 
-🦋 Contribution Activity
+---
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushizala10&bg_color=0D0015&color=E879F9&line=C026D3&point=FFFFFF&area=true&hide_border=true" width="100%"/></div>---
+## 💜 LET'S CONNECT
 
-💌 Let's Connect
+[![GitHub](https://img.shields.io/badge/GitHub-Ayushizala10-181717?style=for-the-badge&logo=github)](https://github.com/Ayushizala10)
 
-<div align="center"><a href="https://github.com/Ayushizala10">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
-💜 BUILD. LEARN. CONTRIBUTE.
+---
 
-Dream big, code harder, build better.
+<div align="center">
+
+### 🦋 BUILD. LEARN. CONTRIBUTE.
+
+*Dream big. Code harder. Build better.*
+
+💜
 
 </div>
