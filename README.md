@@ -1,16 +1,50 @@
-## Hi there 👋
+Hey, I'm Ayushi Zala 👋
 
-<!--
-**ayushizala10/Ayushizala10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C++ Developer | Competitive Programmer | CS Student
 
-Here are some ideas to get you started:
+I enjoy solving algorithmic problems, exploring computer science fundamentals, and building projects that challenge me to think deeper.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning, building, and exploring the world of software engineering.
+
+---
+
+🚀 About Me
+
+- 💻 Interested in Data Structures & Algorithms and Competitive Programming.
+- ⚡ Exploring efficient C++ programming and performance optimization.
+- 🧠 Learning AI/ML and exploring quantitative computing.
+- 🎮 Interested in Game Development and Web Development.
+- 🌱 Exploring open-source development and collaborative coding.
+
+🛠️ Tech Stack
+
+Languages
+
+C++ · Python · JavaScript
+
+Tools
+
+Git · GitHub · VS Code · Godot
+
+Currently Exploring
+
+Algorithms · Data Structures · Open Source · AI/ML · Systems Programming
+
+📌 What I'm Working Towards
+
+- Improving my competitive programming skills.
+- Building projects with strong engineering fundamentals.
+- Contributing to meaningful open-source projects.
+- Exploring the intersection of algorithms, performance and quantitative computing.
+
+📂 Projects
+
+More projects coming soon!
+
+📫 Connect With Me
+
+- GitHub: "@Ayushizala10" (https://github.com/Ayushizala10)
+
+---
+
+Always curious. Always building. Always learning. 🚀
