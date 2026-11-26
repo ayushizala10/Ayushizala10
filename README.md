@@ -14,7 +14,11 @@
 
 <img src="./assets/hero.svg" width="100%" alt="Speech bubble: Dark mode and blue glow? You debug like a true dev."/>
 
-<br/>
+<img src="./assets/divider.svg" width="100%"/>
+
+<img src="./assets/grid.svg" width="100%" alt="What I explore: C++ and DSA, Competitive Programming, Quant and HFT, AI, Games and Web"/>
+
+<br/><br/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer+%E2%9A%A1;Competitive+Programmer+%F0%9F%A7%A9;Exploring+Quant+%26+HFT+%F0%9F%93%88;Code+%E2%80%A2+Create+%E2%80%A2+Innovate" alt="Typing SVG"/></a>
 
@@ -32,10 +36,6 @@ Hey! I'm **Ayushi Zala**, a Computer Science student who loves solving problems,
 - 🤖 Interested in AI and Machine Learning
 - 🎮 Game Development and Web Development
 - 🌱 Exploring Open Source
-
-<div align="center">
-<img src="./assets/grid.svg" width="100%" alt="What I explore: C++ and DSA, Competitive Programming, Quant and HFT, AI, Games and Web"/>
-</div>
 
 <img src="./assets/divider.svg" width="100%"/>
 
