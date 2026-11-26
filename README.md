@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Ayushi Zala — anime developer coding at night, blue neon banner"/>
+<img src="./banner.svg" width="100%" alt="Ayushi Zala — anime developer coding at night, blue neon banner"/>
 
 <br/><br/>
 
-<a href="https://github.com/Ayushizala10"><img src="./assets/btn-github.svg" height="56" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/"><img src="./assets/btn-linkedin.svg" height="56" alt="LinkedIn"/></a>
-<a href="#-about-me"><img src="./assets/btn-logo.svg" height="56" alt="About"/></a>
-<a href="#-featured-projects"><img src="./assets/btn-projects.svg" height="56" alt="Projects"/></a>
-<a href="#-lets-connect"><img src="./assets/btn-contact.svg" height="56" alt="Contact"/></a>
+<a href="https://github.com/Ayushizala10"><img src="./btn-github.svg" height="56" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/"><img src="./btn-linkedin.svg" height="56" alt="LinkedIn"/></a>
+<a href="#-about-me"><img src="./btn-logo.svg" height="56" alt="About"/></a>
+<a href="#-featured-projects"><img src="./btn-projects.svg" height="56" alt="Projects"/></a>
+<a href="#-lets-connect"><img src="./btn-contact.svg" height="56" alt="Contact"/></a>
 
 <br/><br/>
 
-<img src="./assets/hero.svg" width="100%" alt="Speech bubble: Dark mode and blue glow? You debug like a true dev."/>
+<img src="./hero.svg" width="100%" alt="Speech bubble: Dark mode and blue glow? You debug like a true dev."/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
-<img src="./assets/grid.svg" width="100%" alt="What I explore: C++ and DSA, Competitive Programming, Quant and HFT, AI, Games and Web"/>
+<img src="./grid.svg" width="100%" alt="What I explore: C++ and DSA, Competitive Programming, Quant and HFT, AI, Games and Web"/>
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 💙 About Me
 
@@ -37,7 +37,7 @@ Hey! I'm **Ayushi Zala**, a Computer Science student who loves solving problems,
 - 🎮 Game Development and Web Development
 - 🌱 Exploring Open Source
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 💻 Tech Stack
 
@@ -58,7 +58,7 @@ Hey! I'm **Ayushi Zala**, a Computer Science student who loves solving problems,
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -71,7 +71,7 @@ Hey! I'm **Ayushi Zala**, a Computer Science student who loves solving problems,
 
 </div>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 🎯 My Interests
 
@@ -97,7 +97,7 @@ struct Ayushi {
 };
 ```
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 📂 Featured Projects
 
@@ -110,7 +110,7 @@ More projects coming soon!
 | ⚙️ **Performance Lab** | C++ optimization experiments |
 | 🤖 **ML Projects** | Machine learning experiments |
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="./divider.svg" width="100%"/>
 
 ## 💙 Let's Connect
 
